@@ -93,6 +93,11 @@ The project is structured as follows:
   - `components`: Contains reusable UI components.
   - `assets`: Contains static assets such as images and logos.
 
+## Demo
+```bash
+   https://arunangshu-image-generator.arunangshu.in/
+```
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
